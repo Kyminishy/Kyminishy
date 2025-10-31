@@ -13,4 +13,4 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=kyminishy&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kyminishy&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-> “ We used to look up at the sky and wonder at our place in the stars. Now, we just look down and worry about our place in the dirt. ” ― Joseph Cooper
+> “We used to look up at the sky and wonder at our place in the stars. Now, we just look down and worry about our place in the dirt.” ― Joseph Cooper
